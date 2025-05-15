@@ -1,10 +1,10 @@
 ---
-title: "Dynamic Routing and Static Generation"
+title: "Computer Gaming Genres"
 excerpt: "An introduction to some of the most popular computer gaming genres today."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
-  name: JJ Kasper
+  name: Nikolas Moya
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
