@@ -7,14 +7,7 @@ export function Intro() {
         Computer Gaming.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A statically generated blog example using{" "}
-        <a
-          href="https://nextjs.org/"
-          className="underline hover:text-blue-600 duration-200 transition-colors"
-        >
-          Next.js
-        </a>{" "}
-        and {CMS_NAME}.
+        Computer gaming refers to playing video games on a PC. It includes everything from casual games to competitive esports.
       </h4>
     </section>
   );
