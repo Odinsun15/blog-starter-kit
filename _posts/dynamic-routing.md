@@ -1,15 +1,15 @@
 ---
-title: "Popular Gaming Genres"
-excerpt: "A brief overview of the most popular computer gaming genres, from shooters to strategy and simulation."
-coverImage: "/assets/blog/gaming-genres/cover.jpg"
-date: "2024-05-15T12:00:00.000Z"
+title: "Dynamic Routing and Static Generation"
+excerpt: "Explore the exciting world of computer gaming genres — from high-paced shooters to thoughtful strategy games."
+coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+date: "2020-03-16T05:35:07.322Z"
 author:
-  name: Nick Moya
-  picture: "/assets/blog/authors/nick.jpeg"
+  name: JJ Kasper
+  picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/gaming-genres/cover.jpg"
+  url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-Computer gaming offers a wide variety of genres to match every kind of player. Some of the most popular include first-person shooters (FPS), which focus on fast reflexes and accuracy; role-playing games (RPGs), where players take on character-driven adventures; and strategy games, which test tactical thinking and planning skills.
+Computer gaming covers a wide range of genres designed for every type of player. First-person shooters (FPS) are known for their speed and precision, while role-playing games (RPGs) allow players to explore immersive worlds through story-driven quests. Strategy games challenge players to think critically, plan ahead, and manage resources efficiently.
 
-Other major genres include simulation games like The Sims or Flight Simulator, which mimic real-world experiences, and sandbox games such as Minecraft, where creativity and exploration are the main focus. Each genre appeals to different interests, making gaming one of the most diverse forms of entertainment today.
+Simulation games like The Sims and flight simulators mimic real-life experiences, offering creative and relaxing gameplay. Meanwhile, sandbox games like Minecraft give players the freedom to build, explore, and experiment in open-ended environments. With so many options, gaming continues to grow as a diverse and engaging form of entertainment.
